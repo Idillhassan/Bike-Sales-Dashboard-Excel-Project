@@ -1,4 +1,4 @@
-# Bike-Sales-Excel-Project
+# Bike-Sales-Excel-Dashboard
 
 ## Project Overview
 
